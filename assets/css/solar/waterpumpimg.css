@@ -1,0 +1,19 @@
+.row-list ul li{
+    font-weight: 600;
+}
+
+.row-list ol li{
+    font-weight: 400 !important;
+}
+
+.row-list ol{
+    list-style: inside;
+}
+
+.row-head-desc h5 {
+    font-size: 23px;
+    font-weight: 700;
+    color: #74787C;
+    margin-top: 20px;
+    margin-bottom: 15px
+}

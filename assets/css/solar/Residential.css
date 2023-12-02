@@ -1,0 +1,162 @@
+.row-head{
+    width: 100%;
+    margin-top: 20px;
+}
+
+.row-head h4{
+    font-size: 27px;
+    font-weight: 700;
+    text-decoration: underline;
+    margin-left: 100px;
+    text-align: start;
+}
+
+.row-head h1{
+    font-size: 30px;
+    font-weight: 700;
+    text-decoration: underline;
+    text-align: center;
+}
+
+.para{
+    font-size: 17px;
+    margin-top: 10px;
+}
+
+.img-commercial{
+    border-radius: 10px;
+    height: 630px ;
+}
+
+.row-head h3{
+    font-weight: 700;
+
+}
+
+.row-head-desc h5{
+    font-size: 22px;
+    font-weight: 600;
+    color: #74787C;
+}
+
+.row-head-desc h6{
+    font-size: 21px;
+    font-weight: 700;
+    color: black;
+    margin-top: 20px;
+    margin-right: 100px;
+}
+
+.row-head-desc{
+    margin-top: 20px;
+    margin-left: 100px;
+    margin-right: 100px;
+    text-align: start;
+    
+}
+.row-head-desc-2{
+    margin-top: 20px;
+    margin-left: 320px;
+    margin-right: 320px;
+    text-align: start;
+    
+}
+
+.row-list{
+    line-height: 2.5;
+    margin-left: 30px;
+    font-size: 17px;
+
+}
+
+.m-t-20{
+    margin-top: 20px;
+}
+
+.row-list tbody, td, tfoot, th, thead, tr{
+    border-color: black;
+    text-align: center;
+    border-width: 2.5px;
+    width: 500px;
+}
+
+
+.line-h-1{
+    line-height: 1.8;
+}
+
+table{
+    font-weight: 500;
+}
+
+.light{
+    background: #32528C;
+    color: white;
+}
+
+.dark{
+    background: #0C2545;
+    color: white;
+}
+
+.bg-yellow-dark{
+    background: #EBB606;
+}
+.bg-yellow-light{
+    background: #FBE846;
+}
+
+.grid-col-1{
+    margin: 1px;
+    border: 1px solid #cccccc;
+    padding: 8px 8px;
+}
+
+.grid-col-1 ul {
+    list-style: none;
+    text-align: center;
+    font-size: 14px;
+    line-height: 17px;
+    color: #000000;
+}
+
+.grid-col-1 li{
+    padding: 18px 0 17px 0;
+    position: relative;
+}
+
+.grid-row{
+    display: flex;
+    flex-wrap: nowrap;
+    width: 86.9%;
+    margin-left: 100px;
+}
+.grid-row-2{
+    display: flex;
+    flex-wrap: nowrap;
+    width: 86.9%;
+    margin-left: 320px;
+}
+
+.grid-row .grid-col-1 ul li:after {
+    content: '';
+    position: absolute;
+    width: 55.2939888317%;
+    height: 1px;
+    background: rgba(108,108,108,0.45);
+    left: 0;
+    right: 0;
+    bottom: 0;
+    margin: auto;
+}
+.grid-row-2 .grid-col-1 ul li:after {
+    content: '';
+    position: absolute;
+    width: 55.2939888317%;
+    height: 1px;
+    background: rgba(108,108,108,0.45);
+    left: 0;
+    right: 0;
+    bottom: 0;
+    margin: auto;
+}
