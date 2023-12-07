@@ -339,7 +339,7 @@ header
   background-position: center;
   position: absolute;
   height: 110px;
-  margin-top: 20px;
+  /* margin-top: 20px; */
   top: 0;
   left: 0;
   right: 0;
@@ -403,7 +403,7 @@ header
 .header-area .main-nav .nav li a {
   display: block;
   font-weight: 300;
-  font-size: 14px;
+  font-size: 15px;
   text-transform: capitalize;
   color: #fff;
   -webkit-transition: all 0.3s ease 0s;
@@ -666,16 +666,12 @@ header
   background-color: #fff;
 }
 
-.header-area.header-sticky {
-  min-height: 80px;
-}
-
-/* .header-sticky { */
-  /* margin-top: 0; */
-/* } */
-
 .header-area .nav {
   margin-top: 30px;
+}
+
+.header-area.header-sticky {
+  min-height: 120px;
 }
 
 .header-area.header-sticky .nav li a.active {

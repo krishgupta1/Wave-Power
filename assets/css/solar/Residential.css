@@ -18,9 +18,10 @@
     text-align: center;
 }
 
-.para{
-    font-size: 17px;
+.para {
+    font-size: 18px;
     margin-top: 10px;
+    font-weight: 400;
 }
 
 .img-commercial{
