@@ -339,7 +339,6 @@ header
   background-position: center;
   position: absolute;
   height: 110px;
-  /* margin-top: 20px; */
   top: 0;
   left: 0;
   right: 0;
@@ -351,7 +350,7 @@ header
 }
 
 .header-area .main-nav {
-  min-height: 80px;
+  min-height: 120px;
   background: transparent;
 }
 
